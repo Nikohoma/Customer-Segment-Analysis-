@@ -1,4 +1,4 @@
-Project Overview
+## Project Overview
 
 This project aims to segment customers based on their spending behavior and income. The process involved data cleaning, handling errors and aberrations, applying statistical methods to ensure uniformity, conducting exploratory data analysis (EDA) to identify trends and patterns, and ultimately using machine learning algorithms for clustering.
 
