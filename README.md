@@ -2,7 +2,7 @@
 
 This project aims to segment customers based on their spending behavior and income. The process involved data cleaning, handling errors and aberrations, applying statistical methods to ensure uniformity, conducting exploratory data analysis (EDA) to identify trends and patterns, and ultimately using machine learning algorithms for clustering.
 
-1. Data Cleaning
+### 1. Data Cleaning
 
 Data cleaning is a critical first step in the data analysis pipeline. This process ensures that the dataset is accurate, consistent, and free of errors. The steps involved in data cleaning for this project included:
 
